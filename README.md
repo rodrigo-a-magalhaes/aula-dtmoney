@@ -1,5 +1,10 @@
 <h1 align="center">DT Money (Controle Financeiro) 👋</h1>
 <p>
+  <a href="https://www.linkedin.com/in/rodrigo6110/" title="Rodrigo Magalhaes">
+    <img 
+      alt="Rodrigo Magalhaes" 
+      src="https://img.shields.io/badge/-Rodrigo-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
